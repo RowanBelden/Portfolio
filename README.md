@@ -17,6 +17,9 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
   <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
+  <li><b>Cherrington Global Scholar</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
+  <li><b>Chancellor Scholarship</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
+
  </li>
 </ul>
 
