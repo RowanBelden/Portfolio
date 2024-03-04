@@ -71,7 +71,6 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
        <li>PowerBI</li>
-        <li>Trello</li>
       </ul>
     </td>
     <td>
@@ -85,17 +84,17 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Strengths</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
+        <li>Integrity</li>
         <li>Learner</li>
         <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
+        <li>Responsibility</li>
+        <li>Leadership</li>
      </ol>
    </td>
    <td>
