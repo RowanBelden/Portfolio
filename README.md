@@ -14,6 +14,12 @@
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
+**Contact Information:**
+
+Phone: 708-407-1420
+
+Email: Rowan.Belden@du.edu
+
 #### About
 Pursuing a Bachelor's degree in Business Information and Analytics at the University of Denver, I am passionate about transforming data into insights and solutions. With a Chancellor Scholarship for academic excellence, I have excelled in courses such as Data Visualization, Data Mining, and Business Intelligence. I am also proficient in using software including SQL, Python, Tableau, Excel, R, and more. I am scheduled to graduate in Spring 2024.
 
