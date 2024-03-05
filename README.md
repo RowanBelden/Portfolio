@@ -62,6 +62,10 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 - **Description**: The goal of the analysis is to run a time & cost simulation of the fabric manufacturing process to determine the best, worst, and average scenarios for business preparation purposes. The analysis also involved a risk analysis to determine the number of worst-case scenarios and the probability that an occurrence will be worst-case.
 
   - **Files**: [Link to Excel File (Download to View)](INFO%202020%20Project%203%20v3%20Final.xlsx)
+ 
+### Database Creation & Population using SQL
+- **Project Name**: Creating Inkwell Database
+- **Description**: This project involves the creation of tables to store various types of data such as genres, authors, publishers, libraries, employees, books, customers, loans, and reservations. The code also includes bulk insertion commands to populate these tables with data from CSV files. Additionally, the code creates views to simplify the querying of complex relationships between tables, user-defined functions for common data manipulation tasks, and stored procedures to provide insights into customer loans and library reservations. 
 
 <a name="profExp"></a>
 <hr>
