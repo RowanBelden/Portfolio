@@ -158,4 +158,10 @@ Tableau: Proficient in creating interactive and insightful visualizations using 
 
 PowerBI: Skilled in creating interactive reports and dashboards using Power BI Desktop.
 
+### Fun & Extra
+- Senior Member of Pi Kappa Phi Fraternity
+- Team leader of West Suburban Bulls Rugby Team
+- Some of my favorite hobbies include skiing and hiking in the Rocky Mountains and watching sports with friends
+    - My favorite teams are the Chicago Bulls and the Chicago Bears
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
