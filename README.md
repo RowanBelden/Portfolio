@@ -10,6 +10,8 @@
 
 <a href="#projects"><button>Projects</button></a>
 
+<a href="#fun-extra"><button>Fun & Extra</button></a>
+
 <a name="education"></a>
 <hr>
 
@@ -173,7 +175,9 @@ Tableau: Proficient in creating interactive and insightful visualizations using 
 
 PowerBI: Skilled in creating interactive reports and dashboards using Power BI Desktop.
 
-### Fun & Extra
+<a id="fun-extra"></a>
+<h2>Fun & Extra</h2>
+
 - Senior Member of Pi Kappa Phi Fraternity
 - Team leader of West Suburban Bulls Rugby Team
 - Some of my favorite hobbies include skiing and hiking in the Rocky Mountains and watching sports with friends
