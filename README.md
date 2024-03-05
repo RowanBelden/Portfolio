@@ -65,7 +65,9 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
  
 ### Database Creation & Population using SQL
 - **Project Name**: Creating Inkwell Database
-- **Description**: This project involves the creation of tables to store various types of data such as genres, authors, publishers, libraries, employees, books, customers, loans, and reservations. The code also includes bulk insertion commands to populate these tables with data from CSV files. Additionally, the code creates views to simplify the querying of complex relationships between tables, user-defined functions for common data manipulation tasks, and stored procedures to provide insights into customer loans and library reservations. 
+- **Description**: This project involves the creation of tables to store various types of data such as genres, authors, publishers, libraries, employees, books, customers, loans, and reservations. The code also includes bulk insertion commands to populate these tables with data from CSV files. Additionally, the code creates views to simplify the querying of complex relationships between tables, user-defined functions for common data manipulation tasks, and stored procedures to provide insights into customer loans and library reservations.
+
+  - **Files**: [Link to SQL File](Belden%20INFO%203240%20Project%20v4%20FINAL.sql)
 
 <a name="profExp"></a>
 <hr>
