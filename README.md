@@ -6,6 +6,8 @@
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
 [<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
+<a href="#tools_skills"><button>Tools & Skills Explained</button></a>
+
 <a name="education"></a>
 <hr>
 
@@ -147,7 +149,10 @@ Additionally, I played a pivotal role in refining the B2B website, collaborating
  </tr>
 </table>
 
-### Tools & Skills Explained
+
+<a id="tools_skills"></a>
+<h2>Tools & Skills Explained</h2>
+
 SQL: Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
 
 Visual Basic: Developed VBA macros and scripts for automating tasks in Microsoft Excel and Access. Created custom user interfaces and applications using Visual Basic for Applications (VBA).
