@@ -23,10 +23,9 @@ I am eager to learn from real-world challenges and further develop my skills in 
 
 #### Merits
 <ul>
-  <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
-  <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
   <li><b>Cherrington Global Scholar</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
   <li><b>Chancellor Scholarship</b>: Annual, highest DU merit scholarship awarded for academic excellence.</li>
+  <li><b>DU Dean's List & Hornsbeck Scholar</b>: Achieve a grade point average of 4.0 for a quarter while taking at least 12 credit hours.</li>
 
  </li>
 </ul>
