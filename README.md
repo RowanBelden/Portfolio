@@ -55,13 +55,13 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 - **Project Name**: Customer Churn Analysis using R Studio
 - **Description**: The goal of the analysis is to determine which variables are best at predicting whether a customer will “churn”. Churn means the customer stopped using the company’s product or service. The dataset is for a telecommunications company called Telco so in the context of the data churn means that the customer terminated their subscription. With this analysis, Telco will have a better idea of what factors contribute to their clients leaving and therefore develop a plan to retain them.
 
-  - **Files**: [Link to R HTML](Belden-INFO-3200-Project-v12.html)
+  - **Files**: [Link to R HTML(Download to View)](Belden-INFO-3200-Project-v12.html)
  
 ### Data Analysis, Simulation, and Risk Analysis with Excel
 - **Project Name**: Fabric Manufacturing Simulation & Risk Analysis
-- **Description**: The goal of the analysis is to run a time & cost simulation of the fabric manufacturing process to determine the best, worst, and average scenarios for business preparation purposes. The analysis also involved a risk analysis to determine the number of worst-case scenarios and the probability that an occurrence will be worst case.
+- **Description**: The goal of the analysis is to run a time & cost simulation of the fabric manufacturing process to determine the best, worst, and average scenarios for business preparation purposes. The analysis also involved a risk analysis to determine the number of worst-case scenarios and the probability that an occurrence will be worst-case.
 
-  - **Files**:
+  - **Files**: [Link to Excel File (Download to View)](INFO%202020%20Project%203%20v3%20Final.xlsx)
 
 <a name="profExp"></a>
 <hr>
