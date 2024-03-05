@@ -8,6 +8,8 @@
 
 <a href="#tools_skills"><button>Tools & Skills Explained</button></a>
 
+<a href="#projects"><button>Projects</button></a>
+
 <a name="education"></a>
 <hr>
 
@@ -42,7 +44,9 @@ I am eager to learn from real-world challenges and further develop my skills in 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-## Projects
+<a id="projects"></a>
+<h2>Projects</h2>
+
 
 ### Data Analysis and Visualization with R
 - **Project Name**: Customer Churn Analysis using R Studio
