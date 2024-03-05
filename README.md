@@ -122,4 +122,21 @@ Additionally, I played a pivotal role in refining the B2B website, collaborating
  </tr>
 </table>
 
+### Tools & Skills Explained
+SQL: Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
+
+Visual Basic: Developed VBA macros and scripts for automating tasks in Microsoft Excel and Access. Created custom user interfaces and applications using Visual Basic for Applications (VBA).
+
+Python: Skilled in Python for data analysis. Familiarity with popular libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+
+R: Some experience in statistical analysis, data visualization, and predictive modeling using R and RStudio. Proficient in packages like ggplot2 and dplyr
+
+Excel: Advanced proficiency in Microsoft Excel for data manipulation, analysis, and reporting. Skilled in creating complex formulas, pivot tables, and dashboards for decision-making.
+
+Microsoft SQL Server Management Studio: Experience in database administration and development. Proficient in writing procedures, triggers, and database queries.
+
+Tableau: Proficient in creating interactive and insightful visualizations using Tableau Desktop. Experience in connecting to various data sources, designing dashboards, and storytelling with data.
+
+PowerBI: Skilled in creating interactive reports and dashboards using Power BI Desktop.
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
