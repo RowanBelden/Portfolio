@@ -57,7 +57,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
   - **Tools Used**: R, ggplot2, dplyr, etc.
   - **Skills Demonstrated**: Data analysis, visualization, statistical modeling.
   - **Outcome**: Key insights or findings derived from the analysis.
- 
+  - **Files**: [Link to R HTML](Belden-INFO-3200-Project-v12.html)
 
 <a name="profExp"></a>
 <hr>
