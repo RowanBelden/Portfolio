@@ -52,11 +52,9 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 ## Projects
 
 ### Data Analysis and Visualization with R
-- **Project Name**: Brief description of the project.
-  - **Description**: Overview of the project objectives and scope.
-  - **Tools Used**: R, ggplot2, dplyr, etc.
-  - **Skills Demonstrated**: Data analysis, visualization, statistical modeling.
-  - **Outcome**: Key insights or findings derived from the analysis.
+- **Project Name**: Customer Churn Analysis using R Studio
+- **Description**: The goal of the analysis is to determine which variables are best at predicting whether a customer will “churn”. Churn means the customer stopped using the company’s product or service. The dataset is for a telecommunications company called Telco so in the context of the data churn means that the customer terminated their subscription. With this analysis, Telco will have a better idea of what factors contribute to their clients leaving and therefore develop a plan to retain them.
+
   - **Files**: [Link to R HTML](Belden-INFO-3200-Project-v12.html)
 
 <a name="profExp"></a>
