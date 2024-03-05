@@ -150,9 +150,10 @@ Additionally, I played a pivotal role in refining the B2B website, collaborating
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
+        <li>Emotional Intelligence</li>
+        <li>Conflict Resolution</li>
        <li>Problem Solving</li>
+        <li>Communication</li>
      </ul>
    </td>
  </tr>
