@@ -55,6 +55,14 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 ## Jobs and Internships
 <i>See my [resume](Rowan%20Belden%20Resume%20Updated.pdf) and [LinkedIn](https://www.linkedin.com/in/rowan-belden)</i>
 
+
+### Internship
+<img src="https://mma.prnewswire.com/media/1736285/DesireCo_Logo_Black_Logo.jpg?p=facebook" width="500">
+
+During the summer of 2023, I interned at The Desire Company, a media firm in downtown Chicago. My primary focus was on conducting comprehensive data analysis using Google Analytics 4 (GA4) to extract insights for strategic decisions and website optimization. This involved delving into website traffic, user behavior, and engagement metrics to identify patterns and outliers that guided marketing strategies and improved user experience.
+
+Additionally, I played a pivotal role in refining the B2B website, collaborating with the web development team to enhance user engagement and increase conversion rates. Through A/B testing, user feedback analysis, and continuous iteration, we successfully implemented changes that led to measurable improvements in website performance. This hands-on experience allowed me to apply classroom knowledge to real-world scenarios, making a tangible impact on the company's digital presence and processes.
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="skills"></a>
