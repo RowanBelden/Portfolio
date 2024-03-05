@@ -71,7 +71,7 @@ I am eager to learn from real-world challenges and further develop my skills in 
 - **Project Name**: Data Analysis & Visualizations using a Variety of Datasets
 - **Description**: This project delves into comprehensive data analysis across diverse datasets to uncover valuable insights and generate compelling visualizations. Employing hypothesis testing and two-sample t-tests, the analysis rigorously examines correlations between key variables. Additionally, the project entails crafting graphical representations of critical metrics like revenue, customer churn, and unit cost, enhancing understanding and facilitating informed decision-making
 
-- **Files**: [Link to PowerPoint Visualizations](Belden%20INFO%203100%20Final%20Assignment%20PowerPoint%20v4.pptx)
+- **Files**: [Link to PowerPoint Visualizations(Download to View)](Belden%20INFO%203100%20Final%20Assignment%20PowerPoint%20v4.pptx)
 - **Files**: [Link to Python Code](INFO%203100%20Final%20Assignment%20v6.ipynb)
 
 <a name="profExp"></a>
