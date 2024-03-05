@@ -68,6 +68,10 @@ I am eager to learn from real-world challenges and further develop my skills in 
 - **Files**: [Link to Tableau Visualization](Tableau_Visualization_Winnebago_Sales.png)
 <img src="Tableau_Visualization_Winnebago_Sales.png" alt="Description of the image" width="600" height="400">
 
+### Python Code & Visualizations
+- **Project Name**: Data Analysis & Visualizations using a Variety of Datasets
+- **Description**: This project delves into comprehensive data analysis across diverse datasets to uncover valuable insights and generate compelling visualizations. Employing hypothesis testing and two-sample t-tests, the analysis rigorously examines correlations between key variables. Additionally, the project entails crafting graphical representations of critical metrics like revenue, customer churn, and unit cost, enhancing understanding and facilitating informed decision-making
+
 <a name="profExp"></a>
 <hr>
 
