@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Welcome! This is a little about me and a sampling of my work.
+## Welcome! My Name is Rowan Belden and this is a little about me & a sampling of my work
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
@@ -14,6 +14,14 @@
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
+#### About
+Pursuing a Bachelor's degree in Business Information and Analytics at the University of Denver, I am passionate about transforming data into insights and solutions. With a Chancellor Scholarship for academic excellence, I have excelled in courses such as Data Visualization, Data Mining, and Business Intelligence. I am also proficient in using software including SQL, Python, Tableau, Excel, R, and more. I am scheduled to graduate in Spring 2024.
+
+In my recent internship as a Data Analyst at The Desire Company, I applied my skills in Google Analytics 4 (GA4) to extract valuable data and drive actionable business insights. I contributed to strategic decisions and optimized website performance, focusing on enhancing user engagement and increasing conversion rates.
+
+I am eager to learn from real-world challenges and further develop my skills in the field of business analytics. I am a hardworking and dedicated individual who values teamwork and collaboration. I am seeking job opportunities where I can leverage my data visualization and problem-solving abilities to make a positive impact in the business world.
+
+#### Merits
 <ul>
   <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
   <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
