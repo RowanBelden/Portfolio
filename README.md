@@ -49,6 +49,16 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
+## Projects
+
+### Data Analysis and Visualization with R
+- **Project Name**: Brief description of the project.
+  - **Description**: Overview of the project objectives and scope.
+  - **Tools Used**: R, ggplot2, dplyr, etc.
+  - **Skills Demonstrated**: Data analysis, visualization, statistical modeling.
+  - **Outcome**: Key insights or findings derived from the analysis.
+ 
+
 <a name="profExp"></a>
 <hr>
 
