@@ -60,6 +60,13 @@ I am eager to learn from real-world challenges and further develop my skills in 
 - **Description**: This project involves the creation of tables to store various types of data such as genres, authors, publishers, libraries, employees, books, customers, loans, and reservations. The code also includes bulk insertion commands to populate these tables with data from CSV files. Additionally, the code creates views to simplify the querying of complex relationships between tables, user-defined functions for common data manipulation tasks, and stored procedures to provide insights into customer loans and library reservations.
 
   - **Files**: [Link to SQL File](Belden%20INFO%203240%20Project%20v4%20FINAL.sql)
+ 
+### Tableau Visualization
+- **Project Name**: Winnebago RV Sales
+- **Description**: This project involves the visualization of Winnebago RV sales from 1966 to 1972 by month. The visualization is a line graph that includes the max sales by decade and the max sales overall.
+
+- **Files**: [Link to Tableau Visualization](Tableau_Visualization_Winnebago_Sales.png)
+<img src="Tableau_Visualization_Winnebago_Sales.png" alt="Description of the image" width="600" height="400">
 
 <a name="profExp"></a>
 <hr>
